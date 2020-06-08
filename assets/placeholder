@@ -1,0 +1,11 @@
+This file is a placeholder for the folder.
+Here we should have the exported model but it is too big for github.
+
+Ideal content:
+exported-model 
+   |- checkpoint
+   |- export.data-00000-of-00001
+   |- export.index
+   |- export.meta
+   |- options.json
+   |- output_graph.pb
